@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Learning how to be a good developer<br><br>- EBAC Full Stack Javascript</p>
+<p align="left">Full Stack Javascript</p>
 
 ###
 
