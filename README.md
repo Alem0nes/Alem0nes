@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full Stack Javascript</p>
+<p align="left">Front-end</p>
 
 ###
 
